@@ -674,6 +674,9 @@ main .holder .box .range-box .range-text .item:last-child span {
     font-size: 16px;
     text-align: center;
   }
+  main {
+    background-size: 768px 150px;
+  }
   main .holder .box .radio-box {
     -webkit-box-pack: center;
     -webkit-justify-content: center;
